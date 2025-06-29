@@ -1,0 +1,2 @@
+# Langsmith Basics
+This repository demonstrates how to add observability to AI systems using LangSmith and LangGraph. While building AI applications has become more accessible, understanding how they make decisions and monitoring their behavior in real-world usage remains challenging.
